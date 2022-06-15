@@ -1,0 +1,10 @@
+.header__link_sign-out{
+    margin-left: 25px;
+    opacity: .8;
+    transition: .2s;
+}
+
+.header__link_sign-out:hover{
+    opacity: 1;
+    transition: .2s;
+}

@@ -1,0 +1,7 @@
+.login{
+    padding-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 358px;
+    margin: auto;
+}

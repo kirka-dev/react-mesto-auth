@@ -1,0 +1,18 @@
+.register__input{
+    border: none;
+    outline: none;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: initial;
+    border-bottom: 2px solid #CCCCCC;
+    padding-bottom: 13px;
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.register__input:last-child{
+    margin-bottom: 0px;
+}
